@@ -1,0 +1,17 @@
+body {
+    flex: content;
+    justify-content: center;
+    justify-items: center;
+    background-color: lightgoldenrodyellow;
+    color: orange;
+}
+
+button {
+    background-color: lightpink;
+}
+
+p {
+    color: gray;
+}
+
+
